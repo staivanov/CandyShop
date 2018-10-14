@@ -1,0 +1,26 @@
+[
+    {
+        "imgURL": "images/products/salty-products/banica3.jpg",
+        "name": "Home banica",
+        "price": 4,
+        "isAvailable": true
+    },
+    {
+        "imgURL": "images/products/salty-products/pancake3.jpg",
+        "name": "Salty pancake",
+        "price": 5,
+        "isAvailable": true
+    },
+    {
+        "imgURL": "images/products/salty-products/cheese-pane.jpg",
+        "name": "Cheese pane",
+        "price": 8,
+        "isAvailable": true
+    },
+    {
+        "imgURL": "images/products/salty-products/pizza4.jpg",
+        "name": "Home pizza",
+        "price": 7,
+        "isAvailable": true
+    }
+]

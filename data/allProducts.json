@@ -1,0 +1,712 @@
+[  
+    {  
+       "imgURL":"images/products/cakes/cake3.jpg",
+       "name":"Some item",
+       "content":"some content there",
+       "price":5,
+       "inStock":true,
+       "size":"500",
+       "typeId":1,
+       "type":"cake"
+    },
+    {  
+       "imgURL":"images/products/cakes/cake4.jpg",
+       "name":"Some item",
+       "content":"some content there",
+       "price":5,
+       "inStock":true,
+       "size":"500",
+       "typeId":1,
+       "type":"cake"
+    },
+    {  
+       "imgURL":"images/products/cakes/cake5.jpg",
+       "name":"Some item",
+       "content":"some content there",
+       "price":5,
+       "inStock":true,
+       "size":"500",
+       "typeId":1,
+       "type":"cake"
+    },
+    {  
+       "imgURL":"images/products/cakes/cake6.jpg",
+       "name":"Some item",
+       "content":"some content there",
+       "price":5,
+       "inStock":true,
+       "size":"500",
+       "typeId":1,
+       "type":"cake"
+    },
+    {  
+       "imgURL":"images/products/cakes/cake7.jpg",
+       "name":"Some item",
+       "content":"some content there",
+       "price":5,
+       "inStock":true,
+       "size":"500",
+       "typeId":1,
+       "type":"cake"
+    },
+    {  
+       "imgURL":"images/products/cakes/cake8.jpg",
+       "name":"Some item",
+       "content":"some content there",
+       "price":5,
+       "inStock":true,
+       "size":"500",
+       "typeId":1,
+       "type":"cake"
+    },
+    {  
+       "imgURL":"images/products/cakes/cake9.jpg",
+       "name":"Some item",
+       "content":"some content there",
+       "price":5,
+       "inStock":true,
+       "size":"500",
+       "typeId":1,
+       "type":"cake"
+    },
+    {  
+       "imgURL":"images/products/cakes/cake10.jpeg",
+       "name":"Some item",
+       "content":"some content there",
+       "price":5,
+       "inStock":true,
+       "size":"500",
+       "typeId":1,
+       "type":"cake"
+    },
+    {  
+       "imgURL":"images/products/cakes/cake11.jpg",
+       "name":"Some item",
+       "content":"some content there",
+       "price":5,
+       "inStock":true,
+       "size":"500",
+       "typeId":1,
+       "type":"cake"
+    },
+    {  
+       "imgURL":"images/products/cakes/cake12.jpg",
+       "name":"Some item",
+       "content":"some content there",
+       "price":5,
+       "inStock":true,
+       "size":"500",
+       "typeId":1,
+       "type":"cake"
+    },
+    {  
+       "imgURL":"images/products/cakes/cake13.jpg",
+       "name":"Some item",
+       "content":"some content there",
+       "price":5,
+       "inStock":true,
+       "size":"500",
+       "typeId":1,
+       "type":"cake"
+    },
+    {  
+       "imgURL":"images/products/cakes/cake14.jpg",
+       "name":"Some item",
+       "content":"some content there",
+       "price":5,
+       "inStock":true,
+       "size":"500",
+       "typeId":1,
+       "type":"cake"
+    },
+    {  
+       "imgURL":"images/products/cakes/cake15.jpg",
+       "name":"Some item",
+       "content":"some content there",
+       "price":5,
+       "inStock":true,
+       "size":"500",
+       "typeId":1,
+       "type":"cake"
+    },
+    {  
+       "imgURL":"images/products/cakes/cake16.jpg",
+       "name":"Some item",
+       "content":"some content there",
+       "price":5,
+       "inStock":true,
+       "size":"500",
+       "typeId":1,
+       "type":"cake"
+    },
+    {  
+       "imgURL":"images/products/cakes/cake17.jpg",
+       "name":"Some item",
+       "content":"some content there",
+       "price":5,
+       "inStock":true,
+       "size":"500",
+       "typeId":1,
+       "type":"cake"
+    },
+    {  
+       "imgURL":"images/products/cakes/cake18.jpg",
+       "name":"Some item",
+       "content":"some content there",
+       "price":5,
+       "inStock":true,
+       "size":"500",
+       "typeId":1,
+       "type":"cake"
+    },
+    {  
+       "imgURL":"images/products/cakes/cake19.jpg",
+       "name":"Some item",
+       "content":"some content there",
+       "price":5,
+       "inStock":true,
+       "size":"500",
+       "typeId":1,
+       "type":"cake"
+    },
+    {  
+       "imgURL":"images/products/cakes/cake20.jpg",
+       "name":"Some item",
+       "content":"some content there",
+       "price":5,
+       "inStock":true,
+       "size":"500",
+       "typeId":1,
+       "type":"cake"
+    },
+    {  
+       "imgURL":"images/products/cakes/love-cake.jpg",
+       "name":"Love cake",
+       "content":"some content there",
+       "price":5,
+       "inStock":true,
+       "size":"500",
+       "typeId":1,
+       "type":"cake"
+    },
+    {  
+       "imgURL":"images/products/cakes/nutella-cake.jpeg",
+       "name":"Nutella cake",
+       "content":"some content there",
+       "price":5,
+       "inStock":true,
+       "size":"500",
+       "typeId":1,
+       "type":"cake"
+    },
+    {  
+        "imgURL":"images/products/drinks/banana-juice.jpeg",
+        "name":"Banana juice",
+        "content":"banana, water, secret ingredient",
+        "price":5,
+        "inStock":true,
+        "size":"500",
+        "typeId":2,
+        "type":"drink"
+     },
+     {  
+        "imgURL":"images/products/drinks/buxton-water.jpeg",
+        "name":"Buxton water",
+        "content":"clean water",
+        "price":1,
+        "inStock":false,
+        "size":"100",
+        "typeId":2,
+        "type":"drink"
+     },
+     {  
+        "imgURL":"images/products/drinks/cappuccino-coffee.jpeg",
+        "name":"Cappuccino coffee",
+        "content":"coffee, milk, sugar, cream",
+        "price":2,
+        "inStock":true,
+        "size":"250",
+        "typeId":2,
+        "type":"drink"
+     },
+     {  
+        "imgURL":"images/products/drinks/coffee-normal.jpeg",
+        "name":"Normal coffee",
+        "content":"coffee, sugar",
+        "price":6,
+        "inStock":true,
+        "size":"330",
+        "typeId":2,
+        "type":"drink"
+     },
+     {  
+        "imgURL":"images/products/drinks/coffee-short.jpeg",
+        "name":"Short coffee",
+        "content":"coffee",
+        "price":6,
+        "inStock":false,
+        "size":"50",
+        "typeId":2,
+        "type":"drink"
+     },
+     {  
+        "imgURL":"images/products/drinks/devin-water.jpeg",
+        "name":"Devin water",
+        "content":"clean mineral water",
+        "price":6,
+        "inStock":true,
+        "size":"330",
+        "typeId":2,
+        "type":"drink"
+     },
+     {  
+        "imgURL":"images/products/drinks/drink11.jpg",
+        "name":"Grapefruit juice",
+        "content":"grapefruit, slice lime",
+        "price":7,
+        "inStock":true,
+        "size":"330",
+        "typeId":2,
+        "type":"drink"
+     },
+     {  
+        "imgURL":"images/products/drinks/drink12.jpg",
+        "name":"Melon juice",
+        "content":"melon, water, ice",
+        "price":10,
+        "inStock":true,
+        "size":"300",
+        "typeId":2,
+        "type":"drink"
+     },
+     {  
+        "imgURL":"images/products/drinks/drink13.jpg",
+        "name":"Drink 13",
+        "content":"secret content",
+        "price":11,
+        "inStock":true,
+        "size":"300",
+        "typeId":2,
+        "type":"drink"
+     },
+     {  
+        "imgURL":"images/products/drinks/drink14.jpg",
+        "name":"Drink 14",
+        "content":"secret content",
+        "price":3,
+        "inStock":true,
+        "size":"500",
+        "typeId":2,
+        "type":"drink"
+     },
+     {  
+        "imgURL":"images/products/drinks/drink15.jpeg",
+        "name":"Drink 15",
+        "content":"secret content",
+        "price":5,
+        "inStock":false,
+        "size":"500",
+        "typeId":2,
+        "type":"drink"
+     },
+     {  
+        "imgURL":"images/products/drinks/drink16.jpg",
+        "name":"Drink 16",
+        "content":"secret content",
+        "price":9,
+        "inStock":true,
+        "size":"750",
+        "typeId":2,
+        "type":"drink"
+     },
+     {  
+        "imgURL":"images/products/drinks/evian-water.jpeg",
+        "name":"Drink 17",
+        "content":"secret content",
+        "price":1,
+        "inStock":true,
+        "size":"300",
+        "typeId":2,
+        "type":"drink"
+     },
+     {  
+        "imgURL":"images/products/drinks/portocal-juice.jpeg",
+        "name":"Drink 18",
+        "content":"secret content",
+        "price":2,
+        "inStock":true,
+        "size":"300",
+        "typeId":2,
+        "type":"drink"
+     },
+     {  
+        "imgURL":"images/products/drinks/strawberry-drink.jpg",
+        "name":"Drink 19",
+        "content":"secret content",
+        "price":2,
+        "inStock":true,
+        "size":"300",
+        "typeId":2,
+        "type":"drink"
+     },
+     {  
+        "imgURL":"images/products/biscuits/easy.jpg",
+        "name":"Some item",
+        "content":"some content there",
+        "price":5,
+        "inStock":true,
+        "size":"500",
+        "typeId":3,
+        "type":"Biscuits"
+     },
+     {  
+        "imgURL":"images/products/biscuits/easy2.jpg",
+        "name":"Buxton water",
+        "content":"clean water",
+        "price":1,
+        "inStock":false,
+        "size":"100",
+        "typeId":3,
+        "type":"Biscuits"
+     },
+     {  
+        "imgURL":"images/products/biscuits/easy3.jpg",
+        "name":"Some item",
+        "content":"some content there",
+        "price":5,
+        "inStock":true,
+        "size":"500",
+        "typeId":3,
+        "type":"Biscuits"
+     },
+     {  
+        "imgURL":"images/products/biscuits/easy4.jpg",
+        "name":"Buxton water",
+        "content":"clean water",
+        "price":1,
+        "inStock":false,
+        "size":"100",
+        "typeId":3,
+        "type":"Biscuits"
+     },
+     {  
+        "imgURL":"images/products/biscuits/easy5.jpg",
+        "name":"Some item",
+        "content":"some content there",
+        "price":5,
+        "inStock":true,
+        "size":"500",
+        "typeId":3,
+        "type":"Biscuits"
+     },
+     {  
+        "imgURL":"images/products/biscuits/easy6.jpg",
+        "name":"Buxton water",
+        "content":"clean water",
+        "price":1,
+        "inStock":false,
+        "size":"100",
+        "typeId":3,
+        "type":"Biscuits"
+     },
+     {  
+        "imgURL":"images/products/biscuits/easy7.jpg",
+        "name":"Some item",
+        "content":"some content there",
+        "price":5,
+        "inStock":true,
+        "size":"500",
+        "typeId":3,
+        "type":"Biscuits"
+     },
+     {  
+        "imgURL":"images/products/biscuits/easy8.jpg",
+        "name":"Buxton water",
+        "content":"clean water",
+        "price":1,
+        "inStock":false,
+        "size":"100",
+        "typeId":3,
+        "type":"Biscuits"
+     },
+     {  
+        "imgURL":"images/products/biscuits/easy9.jpg",
+        "name":"Some item",
+        "content":"some content there",
+        "price":5,
+        "inStock":true,
+        "size":"500",
+        "typeId":3,
+        "type":"Biscuits"
+     },
+     {  
+        "imgURL":"images/products/biscuits/easy10.jpg",
+        "name":"Buxton water",
+        "content":"clean water",
+        "price":1,
+        "inStock":false,
+        "size":"100",
+        "typeId":3,
+        "type":"Biscuits"
+     },
+     {  
+        "imgURL":"images/products/biscuits/easy11.jpg",
+        "name":"Buxton water",
+        "content":"clean water",
+        "price":1,
+        "inStock":false,
+        "size":"100",
+        "typeId":3,
+        "type":"Biscuits"
+     },
+     {  
+        "imgURL":"images/products/biscuits/easy12.jpg",
+        "name":"Some item",
+        "content":"some content there",
+        "price":5,
+        "inStock":true,
+        "size":"500",
+        "typeId":3,
+        "type":"Biscuits"
+     },
+     {  
+        "imgURL":"images/products/biscuits/easy13.png",
+        "name":"Buxton water",
+        "content":"clean water",
+        "price":1,
+        "inStock":false,
+        "size":"100",
+        "typeId":3,
+        "type":"Biscuits"
+     },
+     {  
+        "imgURL":"images/products/biscuits/easy14.jpg",
+        "name":"Buxton water",
+        "content":"clean water",
+        "price":1,
+        "inStock":false,
+        "size":"100",
+        "typeId":3,
+        "type":"Biscuits"
+     },
+     {  
+        "imgURL":"images/products/biscuits/easy15.jpg",
+        "name":"Some item",
+        "content":"some content there",
+        "price":5,
+        "inStock":true,
+        "size":"500",
+        "typeId":3,
+        "type":"Biscuits"
+     },
+     {  
+        "imgURL":"images/products/biscuits/easy16.jpg",
+        "name":"Buxton water",
+        "content":"clean water",
+        "price":1,
+        "inStock":false,
+        "size":"100",
+        "typeId":3,
+        "type":"Biscuits"
+     },
+     {  
+        "imgURL":"images/products/salty-products/banica.jpg",
+        "name":"Some item",
+        "content":"some content there",
+        "price":5,
+        "inStock":true,
+        "size":"500",
+        "typeId":4,
+        "type":"SaltyProducts"
+     },
+     {  
+        "imgURL":"images/products/salty-products/banica2.jpg",
+        "name":"Some item",
+        "content":"some content there",
+        "price":5,
+        "inStock":true,
+        "size":"500",
+        "typeId":4,
+        "type":"SaltyProducts"
+     },
+     {  
+        "imgURL":"images/products/salty-products/banica3.jpg",
+        "name":"Some item",
+        "content":"some content there",
+        "price":5,
+        "inStock":true,
+        "size":"500",
+        "typeId":4,
+        "type":"SaltyProducts"
+     },
+     {  
+        "imgURL":"images/products/salty-products/banica4.jpg",
+        "name":"Some item",
+        "content":"some content there",
+        "price":5,
+        "inStock":true,
+        "size":"500",
+        "typeId":4,
+        "type":"SaltyProducts"
+     },
+     {  
+        "imgURL":"images/products/salty-products/cheese-pane.jpg",
+        "name":"Some item",
+        "content":"some content there",
+        "price":5,
+        "inStock":true,
+        "size":"500",
+        "typeId":4,
+        "type":"SaltyProducts"
+     },
+     {  
+        "imgURL":"images/products/salty-products/pancake2.jpg",
+        "name":"Some item",
+        "content":"some content there",
+        "price":5,
+        "inStock":true,
+        "size":"500",
+        "typeId":4,
+        "type":"SaltyProducts"
+     },
+     {  
+        "imgURL":"images/products/salty-products/pancake3.jpg",
+        "name":"Some item",
+        "content":"some content there",
+        "price":5,
+        "inStock":true,
+        "size":"500",
+        "typeId":4,
+        "type":"SaltyProducts"
+     },
+     {  
+        "imgURL":"images/products/salty-products/pancake4.jpg",
+        "name":"Some item",
+        "content":"some content there",
+        "price":5,
+        "inStock":true,
+        "size":"500",
+        "typeId":4,
+        "type":"SaltyProducts"
+     },
+     {  
+        "imgURL":"images/products/salty-products/pancake5.jpg",
+        "name":"Some item",
+        "content":"some content there",
+        "price":5,
+        "inStock":true,
+        "size":"500",
+        "typeId":4,
+        "type":"SaltyProducts"
+     },
+     {  
+        "imgURL":"images/products/salty-products/pizza.jpg",
+        "name":"Some item",
+        "content":"some content there",
+        "price":5,
+        "inStock":true,
+        "size":"500",
+        "typeId":4,
+        "type":"SaltyProducts"
+     },
+     {  
+        "imgURL":"images/products/salty-products/pizza2.jpg",
+        "name":"Some item",
+        "content":"some content there",
+        "price":5,
+        "inStock":true,
+        "size":"500",
+        "typeId":4,
+        "type":"SaltyProducts"
+     },
+     {  
+        "imgURL":"images/products/salty-products/pizza3.jpg",
+        "name":"Some item",
+        "content":"some content there",
+        "price":5,
+        "inStock":true,
+        "size":"500",
+        "typeId":4,
+        "type":"SaltyProducts"
+     },
+     {  
+        "imgURL":"images/products/salty-products/pizza4.jpg",
+        "name":"Some item",
+        "content":"some content there",
+        "price":5,
+        "inStock":true,
+        "size":"500",
+        "typeId":4,
+        "type":"SaltyProducts"
+     },
+     {  
+        "imgURL":"images/products/salty-products/pizza5.jpg",
+        "name":"Some item",
+        "content":"some content there",
+        "price":5,
+        "inStock":true,
+        "size":"500",
+        "typeId":4,
+        "type":"SaltyProducts"
+     },
+     {  
+        "imgURL":"images/products/salty-products/pizza6.jpg",
+        "name":"Some item",
+        "content":"some content there",
+        "price":5,
+        "inStock":true,
+        "size":"500",
+        "typeId":4,
+        "type":"SaltyProducts"
+     },
+     {  
+        "imgURL":"images/products/salty-products/pizza7.jpg",
+        "name":"Some item",
+        "content":"some content there",
+        "price":5,
+        "inStock":true,
+        "size":"500",
+        "typeId":4,
+        "type":"SaltyProducts"
+     },
+     {  
+        "imgURL":"images/products/salty-products/pizza8.jpg",
+        "name":"Some item",
+        "content":"some content there",
+        "price":5,
+        "inStock":true,
+        "size":"500",
+        "typeId":4,
+        "type":"SaltyProducts"
+     },
+     {  
+        "imgURL":"images/products/salty-products/pizza9.jpg",
+        "name":"Some item",
+        "content":"some content there",
+        "price":5,
+        "inStock":true,
+        "size":"500",
+        "typeId":4,
+        "type":"SaltyProducts"
+     },
+     {  
+        "imgURL":"images/products/salty-products/pizza10.jpg",
+        "name":"Some item",
+        "content":"some content there",
+        "price":5,
+        "inStock":true,
+        "size":"500",
+        "typeId":4,
+        "type":"SaltyProducts"
+     },
+     {  
+        "imgURL":"images/products/salty-products/pizza11.jpg",
+        "name":"Some item",
+        "content":"some content there",
+        "price":5,
+        "inStock":true,
+        "size":"500",
+        "typeId":4,
+        "type":"SaltyProducts"
+     }
+ ]

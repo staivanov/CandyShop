@@ -1,0 +1,26 @@
+[
+    {
+        "imgURL": "images/index-cakes/chokolate-cake.jpg",
+        "name": "Chokolate Cake",
+        "price": 6,
+        "isAvailable": true
+    },
+    {
+        "imgURL": "images/index-cakes/fruits-cake.jpg",
+        "name": "Summer Fruits Cake",
+        "price": 7,
+        "isAvailable": true
+    },
+    {
+        "imgURL": "images/index-cakes/fruits-cake2.jpg",
+        "name": "All Seasons Cake",
+        "price": 8,
+        "isAvailable": true
+    },
+    {
+        "imgURL": "images/index-cakes/vanilla-cake.jpg",
+        "name": "True Vanilla Cake",
+        "price": 7,
+        "isAvailable": true
+    }
+]

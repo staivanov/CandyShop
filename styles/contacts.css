@@ -1,0 +1,38 @@
+
+article {
+    margin-top: 100px;
+    margin-left: 3.5%;
+    width: 40%;
+    padding: 2%;
+    display: inline-block;
+    border: 2px solid  #00c08b;;
+}
+
+article:hover {
+    box-shadow:  0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+address {
+    margin-left: 15%;
+    display: inline-block;
+    width: 40%;
+}
+
+img {
+    width: 43%;
+    height: 100px;
+}
+
+span { 
+    color: #00c08b;
+    text-decoration: none;
+}
+
+span:hover {
+    cursor: pointer;
+}
+
+ul li {
+    color: black;
+    list-style: none;
+}

@@ -1,0 +1,60 @@
+img {
+    width: 100%;
+    height: 30%;
+}
+
+img.salty-product-banica {
+    display: block;
+    width: 55%;
+    margin: 0 auto;
+}
+
+section {
+    margin: 0 auto;
+    width: 80%;
+    margin-top: 100px;
+}
+section > article {
+    float: left;
+    width: 19%;
+    height: 300px;
+    padding: 2%;
+    margin-left: 1%;
+    border: 1px solid #ea5080;
+}
+
+section > article:first-child {
+    margin-left: 0;
+}
+
+
+section > article:hover {
+ cursor: pointer;
+ box-shadow:  0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+section > article > h2 {
+    text-align: center;
+}
+
+section > article > p {
+    text-align: center;
+}
+
+.clearfix::after {
+    content: "";
+    clear: both;
+    display: table;
+}
+
+div > h2 {
+    text-align: center;
+}
+
+h3 {
+    text-align: center;
+}
+
+#salty{
+    margin-top: 100px;
+}

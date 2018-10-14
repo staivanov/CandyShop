@@ -1,0 +1,54 @@
+[
+    {
+        "imgURL": "images/history/oldCandy.jpg",
+        "name": "Villion Camillion",
+        "year": 1910,
+        "moto": "qwefsf rwersdf",
+        "overview": [
+            "Lorem Ipsum is simply dummy text of the",
+            "printing and typesetting industry. Lorem Ipsum",
+            "has been the industry's standard dummy text ever",
+            "since the 1500s, when an unknown printer took a galley",
+            "of type and scrambled it to make a type specimen book."
+        ]
+    },
+    {
+        "imgURL": "images/history/oldCandy2.jpg",
+        "name": "Villion Candy",
+        "year": 1948,
+        "moto": "Vqwewrdfg mwrwrok",
+        "overview": [
+            "Lorem Ipsum is simply dummy text of the",
+            "printing and typesetting industry. Lorem Ipsum",
+            "has been the industry's standard dummy text ever",
+            "since the 1500s, when an unknown printer took a galley",
+            "of type and scrambled it to make a type specimen book."
+        ]
+    },
+    {
+        "imgURL": "images/history/oldCandy3.jpg",
+        "name": "Villion Candy Shop",
+        "year": 1975,
+        "moto": "PPoqowe mqwmenn qwkewer",
+        "overview": [
+            "Lorem Ipsum is simply dummy text of the",
+            "printing and typesetting industry. Lorem Ipsum",
+            "has been the industry's standard dummy text ever",
+            "since the 1500s, when an unknown printer took a galley",
+            "of type and scrambled it to make a type specimen book."
+        ]
+    },
+    {
+        "imgURL": "images/history/oldCandy4.jpg",
+        "name": "Candy Shop \"Vili\" ",
+        "year": 1999,
+        "moto": "Qwqeqwe 1284 plemkker 92394i fnjsfds",
+        "overview": [
+            "Lorem Ipsum is simply dummy text of the",
+            "printing and typesetting industry. Lorem Ipsum",
+            "has been the industry's standard dummy text ever",
+            "since the 1500s, when an unknown printer took a galley",
+            "of type and scrambled it to make a type specimen book."
+        ]
+    }
+]

@@ -1,0 +1,50 @@
+article {
+    margin: 100px auto 40px auto;
+    width: 55%;
+    height: 50%;
+    padding: 0 5% 0 5%;
+    border: 2px solid #53bfe2;;
+}
+
+article:hover {
+    box-shadow:  0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+h1 {
+    text-align: center;
+}
+
+figcaption {
+    text-align: center;
+}
+
+div.four-img img {
+    width: 24%;
+    height: 70px;
+}
+
+div.three-img img {
+    width: 32%;
+    height: 70px;
+}
+
+div.two-img img {
+    width: 49%;
+}
+
+input {
+    margin-top: 10px;
+}
+
+p + div {
+    text-decoration: underline;
+    
+}
+
+span {
+    text-decoration: underline;
+}
+
+form {
+    margin-bottom: 20px;
+}

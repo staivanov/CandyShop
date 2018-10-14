@@ -1,0 +1,62 @@
+[
+    {
+        "imgURL": "images/contacts/candy-vt.jpg",
+        "mail": "candyvili_vt@mail.com",
+        "phone": "+359 886 319-023",
+        "address": "St. Teodosey #20",
+        "city": "Veliko Tarnovo",
+        "countrey": "Bulgaria",
+        "overview": [
+            "Lorem Ipsum is simply dummy text of the",
+            "printing and typesetting industry. Lorem Ipsum",
+            "has been the industry's standard dummy text ever",
+            "since the 1500s, when an unknown printer took a galley",
+            "of type and scrambled it to make a type specimen book."
+        ]
+    },
+    {
+        "imgURL": "images/contacts/candy-rv.jpg",
+        "mail": "candyvili_rv@mail.com",
+        "phone": "+359 883  888-888",
+        "address": "Rahatliky #6",
+        "city": "Plovdiv",
+        "countrey": "Bulgaria",
+        "overview": [
+            "Lorem Ipsum is simply dummy text of the",
+            "printing and typesetting industry. Lorem Ipsum",
+            "has been the industry's standard dummy text ever",
+            "since the 1500s, when an unknown printer took a galley",
+            "of type and scrambled it to make a type specimen book."
+        ]
+    },
+    {
+        "imgURL": "images/contacts/candy-st.jpg",
+        "mail": "candyvili_st@mail.com",
+        "phone": "+359 976 333-555",
+        "address": "Brikota #17",
+        "city": "Stara Zagora",
+        "countrey": "Bulgaria",
+        "overview": [
+            "Lorem Ipsum is simply dummy text of the",
+            "printing and typesetting industry. Lorem Ipsum",
+            "has been the industry's standard dummy text ever",
+            "since the 1500s, when an unknown printer took a galley",
+            "of type and scrambled it to make a type specimen book."
+        ]
+    },
+    {
+        "imgURL": "images/contacts/candy-sf.jpg",
+        "mail": "candyvili_sf@mail.com",
+        "phone": "+359 23 796-540",
+        "address": "Tsar Samuil #124",
+        "city": "Sofia",
+        "countrey": "Bulgaria",
+        "overview": [
+            "Lorem Ipsum is simply dummy text of the",
+            "printing and typesetting industry. Lorem Ipsum",
+            "has been the industry's standard dummy text ever",
+            "since the 1500s, when an unknown printer took a galley",
+            "of type and scrambled it to make a type specimen book."
+        ]
+    }
+]

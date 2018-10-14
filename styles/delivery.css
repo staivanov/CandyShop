@@ -1,0 +1,12 @@
+section {
+    margin: 100px auto 0;
+    width: 60%;
+}
+
+article {
+    width: 100%;
+}
+
+p {
+    display: none;
+}
